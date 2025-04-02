@@ -1,0 +1,6 @@
+*.mp3 binary
+* text=auto
+
+*.jpg binary
+*.png binary
+*.svg binary

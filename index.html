@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="./style.css" />
+    <link rel="shortcut icon" href="./assets/icon.png" type="image/x-icon" />
+    <title>Music Player</title>
+  </head>
+
+  <body>
+    <div id="root">
+      <div class="main">
+        <div class="info">
+          <img src="./assets/img1.jpg" alt="" class="cover" id="cdCover" />
+          <p class="name">Penyangkalan</p>
+          <p class="artist">For Revenge</p>
+        </div>
+        <ul class="lyrics"></ul>
+        <div class="progress-bar">
+          <input type="range" id="progress" value="0" step="1" min="0" max="100" />
+          <div class="timeline">
+            <span class="current-time">00:00</span>
+            <span class="total-time">00:00</span>
+          </div>
+          <audio src="./assets/Penyangkalan.mp3" id="audio"></audio>
+        </div>
+        <div class="controls">
+          <i class="fa-solid fa-volume-low small"></i>
+          <i class="fa-solid fa-backward-step"></i>
+          <i class="fa-solid fa-circle-play active"></i>
+          <i class="fa-solid fa-circle-pause"></i>
+          <i class="fa-solid fa-forward-step"></i>
+          <i class="fa-solid fa-list small"></i>
+        </div>
+        <ul class="playlist"></ul>
+      </div>
+    </div>
+
+    <script type="module" src="./index.js"></script>
+  </body>
+</html>

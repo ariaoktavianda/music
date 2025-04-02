@@ -1,0 +1,7 @@
+{
+    name: '',
+    artist: '',
+    path: './assets/',
+    image: './assets/',
+    lyrics: [],
+}
