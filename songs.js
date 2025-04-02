@@ -92,8 +92,8 @@ export const songs = [
       'Meluap dalam keranda penuh belati yang menancap tulang',
       'Remuk tak ada lagi yang bisa dicerna dari hari-hari tanpa renjana',
 
-      'Tеrbit sang fajar pun tak ubahnya kekacauan yang menyilaukan',
-      'Gemеrlap yang sama sekali tak kuinginkan',
+      'Terbit sang fajar pun tak ubahnya kekacauan yang menyilaukan',
+      'Gemerlap yang sama sekali tak kuinginkan',
       'Menggelapkan sadar yang tersisa dari segala yang bisa disaksikan mata',
       'Namun apa daya, katamu aku bukan lagi cahaya',
       'Aku bukan lagi alasanmu menapaki dunia',
@@ -149,14 +149,14 @@ export const songs = [
   {
     name: 'Ada Selamanya',
     artist: 'For Reveng',
-    path: './assets/assets/for Revenge & Fiersa Besari - Ada Selamanya (Official Lyric Video)_256k.mp3.mp3',
+    path: './assets/assets/for Revenge & Fiersa Besari - Ada Selamanya (Official Lyric Video)_256k.mp3',
     image: './assets/img1.jpg',
     lyrics: ['...'],
   },
   {
     name: 'Putih Mata Memerah',
     artist: 'For Reveng',
-    path: './assets/assets/For Revenge - Putih Mata Memerah [EP. Get Closer with For Revenge]_256k.mp3',
+    path: './assets/For Revenge - Putih Mata Memerah [EP. Get Closer with For Revenge]_256k.mp3',
     image: './assets/img1.jpg',
     lyrics: ['...'],
   },
