@@ -149,7 +149,7 @@ export const songs = [
   {
     name: 'Ada Selamanya',
     artist: 'For Reveng',
-    path: './assets/assets/for Revenge & Fiersa Besari - Ada Selamanya (Official Lyric Video)_256k.mp3',
+    path: './assets/for Revenge & Fiersa Besari - Ada Selamanya (Official Lyric Video)_256k.mp3',
     image: './assets/img1.jpg',
     lyrics: ['...'],
   },
