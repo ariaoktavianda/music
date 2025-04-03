@@ -1,5 +1,5 @@
 *.mp3 binary
-* text=auto
+*.text=auto
 
 *.jpg binary
 *.png binary
